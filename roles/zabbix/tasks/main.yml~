@@ -1,0 +1,21 @@
+---
+- name: install zabbix-agent
+  yum: name=zabbix-agent state=present
+
+#### Copy conf.files ####
+
+#- name: zabbix_agent config
+#  copy: src=zabbix_agent.conf dest=/etc/zabbix/zabbix_agent.conf
+
+- name: zabbix_agentd config
+  copy: src=zabbix_agentd.conf dest=/etc/zabbix/zabbix_agentd.conf
+
+#### Starting agent ####
+
+- service: name=zabbix-agent state=started enabled=yes
+
+- shell: /vagrant/zabbix_agent.sh
+
+#### Starting httpd ####
+
+- service: name=httpd state=started enabled=yes
