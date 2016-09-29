@@ -9,23 +9,23 @@ MTN.*NIX.11 Zabbix
 **Screenshots**
 
 
-![1](https://github.com/VladCharches/Zabbix/blob/Task3/screens/1.png)
+![1](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/1.png)
 
-![2](https://github.com/VladCharches/Zabbix/blob/Task3/screens/2.png)
+![2](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/2.png)
 
-![3](https://github.com/VladCharches/Zabbix/blob/Task3/screens/3.png)
+![3](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/3.png)
 
-![4](https://github.com/VladCharches/Zabbix/blob/Task3/screens/4.png)
+![4](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/4.png)
 
-![5](https://github.com/VladCharches/Zabbix/blob/Task3/screens/5.png)
+![5](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/5.png)
 
-![6](https://github.com/VladCharches/Zabbix/blob/Task3/screens/6.png)
+![6](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/6.png)
 
-![7](https://github.com/VladCharches/Zabbix/blob/Task3/screens/7.png)
+![7](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/7.png)
 
-![8](https://github.com/VladCharches/Zabbix/blob/Task3/screens/8.png)
+![8](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/8.png)
 
-![9](https://github.com/VladCharches/Zabbix/blob/Task3/screens/9.png)
+![9](https://github.com/VladCharches/Zabbix/blob/Task3/Screens/9.png)
 
 1. Yum install Javajdk Tomcat and webapps 
 
